@@ -1,0 +1,6 @@
+/node_modules/
+/dist/
+.eslintrc.json
+.DS_STORE
+/src/.DS_STORE
+package-lock.json
